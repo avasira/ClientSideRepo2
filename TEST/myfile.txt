@@ -1,1 +1,3 @@
-this is information
+this is additional information made in the browser
+
+this is information, adding stuff to the end
