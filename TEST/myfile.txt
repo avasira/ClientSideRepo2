@@ -1,3 +1,5 @@
 this is additional information made in the browser
 
 this is information, adding stuff to the end
+
+This is the bug fix
